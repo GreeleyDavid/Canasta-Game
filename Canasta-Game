@@ -1,0 +1,40 @@
+// =============================
+// Folder Structure for Canasta Game
+// =============================
+
+// Root Directory
+// ├── package.json         // Project dependencies and scripts
+// ├── README.md            // Project overview and setup instructions
+// ├── public               // Static files and index.html
+// └── src                  // Source code
+//     ├── App.jsx          // Main application component
+//     ├── index.js         // Entry point to render the app
+//     ├── logic            // Game logic and rules
+//     │   └── GameLogic.js
+//     └── components       // React components
+//         ├── Books.jsx
+//         ├── Card.jsx
+//         ├── Deck.jsx
+//         ├── DiscardPile.jsx
+//         ├── Hand.jsx
+//         ├── Notifications.jsx
+//         ├── PlayerStatus.jsx
+//         ├── RedThreeAnimation.jsx
+//         └── Scoreboard.jsx
+
+// =============================
+// Setup Instructions
+// =============================
+
+// 1. Install dependencies:
+// npm install
+
+// 2. Start the development server:
+// npm start
+
+// 3. Build the production version:
+// npm run build
+
+// =============================
+// End of Folder Structure
+// =============================
