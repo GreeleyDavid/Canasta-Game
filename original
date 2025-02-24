@@ -1,0 +1,62 @@
+// =============================
+// Complete Canasta Game Code
+// =============================
+
+// This code includes:
+// - App.jsx
+// - GameLogic.js
+// - All components: Scoreboard, Hand, Books, Deck, DiscardPile, Notifications, RedThreeAnimation, PlayerStatus
+
+// =============================
+// File: src/App.jsx
+// =============================
+// (Same as previously added)
+
+// =============================
+// File: src/logic/GameLogic.js
+// =============================
+// (Complete GameLogic.js with all game rules and scoring)
+
+// =============================
+// File: src/components/Scoreboard.jsx
+// =============================
+// (Component that displays team scores and books)
+
+// =============================
+// File: src/components/Hand.jsx
+// =============================
+// (Player hand display with options to meld, discard, and create wild books)
+
+// =============================
+// File: src/components/Books.jsx
+// =============================
+// (Display for each team's Red, Black, and Wild books)
+
+// =============================
+// File: src/components/Deck.jsx
+// =============================
+// (Component for the deck where players draw cards)
+
+// =============================
+// File: src/components/DiscardPile.jsx
+// =============================
+// (Component that shows the top card of the discard pile and allows pickup)
+
+// =============================
+// File: src/components/Notifications.jsx
+// =============================
+// (Component that shows game notifications)
+
+// =============================
+// File: src/components/RedThreeAnimation.jsx
+// =============================
+// (Animation when a player discards three red threes)
+
+// =============================
+// File: src/components/PlayerStatus.jsx
+// =============================
+// (Displays player status: name, cards left, and in-foot status)
+
+// =============================
+// End of Complete Code
+// =============================
